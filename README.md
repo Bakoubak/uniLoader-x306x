@@ -35,6 +35,9 @@ environment in case of a forced and buggy bootloader.
 ### Infinix
 - X6710
 
+### Lenovo
+- X306X
+
 ### Nokia
 - Essential
 
